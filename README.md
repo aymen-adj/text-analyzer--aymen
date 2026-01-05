@@ -17,8 +17,8 @@ This project relies entirely on the Python Standard Library. No external package
 1.  Clone this repository:
 
 ```bash
-git clone <your-repo-url>
-cd text-analyzer
+git clone https://github.com/aymen-adj/text-analyzer--aymen
+cd text-analyzer--aymen
 ```
 
 2. Run the analyzer on the provided sample text:
