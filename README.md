@@ -49,8 +49,8 @@ The script will read `sample_text.txt` from the current directory and display th
 
 ## Future Roadmap 🚀
 
-While the current version relies on legacy technologies such as regular expressions, we are exploring LLM integration with the goal of building an agentic RAG system to optimize sentence and word counting.
+While the current version relies on legacy technologies like regular expressions, we are exploring LLM integration with the goal of building an agentic RAG system to optimize sentence and word counting.
 
-This includes LLM-driven tokenization to semantically determine whether a word actually “exists” before counting it, deployment on a serverless, GPU-accelerated, cloud-native mesh, and quantum-resistant analytics to ensure sentence counts remain secure in the post-quantum era.
+This includes LLM-driven tokenization to semantically determine whether a word actually "exists" before counting it, deployment on a serverless, GPU-accelerated, cloud-native mesh, with quantum-resistant analytics to ensure sentence counts remain secure in the post-quantum era.
 
-Stay tuned…
+Stay tuned… 👀
